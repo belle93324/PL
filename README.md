@@ -9,5 +9,6 @@
 ## >課程筆記區
 ***
 ## >作業連結區
+作業一：(https://github.com/belle93324/PL/blob/a3a07a211c288124e0a9231c647494b1c7f79018/hw1.ipynb)
 ***
 ## >專題連結區
