@@ -9,10 +9,11 @@
 ## >課程筆記區
 ***
 ## >作業連結區
-[作業一](https://github.com/belle93324/PL/blob/a3a07a211c288124e0a9231c647494b1c7f79018/hw1.ipynb)
+[作業一：利用Pandas讀取CSV檔進行資料分析](https://github.com/belle93324/PL/blob/a3a07a211c288124e0a9231c647494b1c7f79018/hw1.ipynb)
 /
 [作業一解說](https://github.com/belle93324/PL/blob/8f15d0ab621a32fca240d331f91330d152fae18e/%E4%BD%9C%E6%A5%AD%E4%B8%80%E8%A7%A3%E8%AA%AA.pdf)
-[作業二](https://github.com/belle93324/PL/blob/2bc22dd72e805ded8dd47fe9ef01c6c65f425da4/hw2.ipynb)
+
+[作業二：利用Matplotlib讀取json檔並轉成視覺化資料](https://github.com/belle93324/PL/blob/2bc22dd72e805ded8dd47fe9ef01c6c65f425da4/hw2.ipynb)
 
 ***
 ## >專題連結區
