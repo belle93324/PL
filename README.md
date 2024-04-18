@@ -21,6 +21,8 @@
 [JSON檔](https://github.com/belle93324/PL/blob/dffc671700405e94077b372e5c1a7b5f2cca9aef/HW3/data.json)
 /
 [CSV檔](https://github.com/belle93324/PL/blob/dffc671700405e94077b372e5c1a7b5f2cca9aef/HW3/data.csv)
+/
+[程式碼講解](https://youtu.be/LSjdSSvN3r8)
 
 ***
 ## >專題連結區
