@@ -15,5 +15,17 @@
 
 [作業二：利用Matplotlib讀取json檔並轉成視覺化資料](https://github.com/belle93324/PL/blob/2bc22dd72e805ded8dd47fe9ef01c6c65f425da4/hw2.ipynb)
 
+作業三
+[程式碼](https://github.com/belle93324/PL/blob/dffc671700405e94077b372e5c1a7b5f2cca9aef/HW3/hw3.ipynb)
+/
+[JSON檔](https://github.com/belle93324/PL/blob/dffc671700405e94077b372e5c1a7b5f2cca9aef/HW3/data.json)
+/
+[CSV檔](https://github.com/belle93324/PL/blob/dffc671700405e94077b372e5c1a7b5f2cca9aef/HW3/data.csv)
+/
+[程式碼講解](https://youtu.be/LSjdSSvN3r8)
+
+
+[作業四]()
+
 ***
 ## >專題連結區
