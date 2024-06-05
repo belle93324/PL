@@ -26,6 +26,8 @@
 
 
 [作業四](https://github.com/belle93324/PL/blob/87a55bb0afd09e8eeda793c90350f8b945812cf4/hw4.ipynb)
+(所使用資料 [爬蟲程式](https://github.com/belle93324/PL/blob/2871232fb0b5a4a38003c1e43da04162eca99959/HW4/hw3_new.ipynb) / 
+[google sheet](https://docs.google.com/spreadsheets/d/13IXX3bap7S0ugjhNiWm7f77KzRNdP8ilLlPRUZB3v7A/edit?hl=zh-tw#gid=2088086850))
 
 ***
 ## >專題連結區
